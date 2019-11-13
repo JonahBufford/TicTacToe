@@ -1,5 +1,4 @@
 # csc3220_tictactoe
 
-This is a barebone structure of the tictactoe lab assignment in CSC 3220 Applications Programming class, Seattle Pacific University.
-
-by Dr. Taiwoo Park @ SPU.
+This project is a Tic Tac Toe app. While the base game was designed by Dr. Park, my applications programming professor, the 
+ui design, game functions, and AI are all my work.
